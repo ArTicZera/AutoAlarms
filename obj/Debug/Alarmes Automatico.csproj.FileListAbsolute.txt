@@ -1,0 +1,11 @@
+D:\Projects\C#\Alarmes Automatico\Alarmes Automatico\bin\Debug\Alarmes Automatico.exe.config
+D:\Projects\C#\Alarmes Automatico\Alarmes Automatico\bin\Debug\Alarmes Automatico.exe
+D:\Projects\C#\Alarmes Automatico\Alarmes Automatico\bin\Debug\Alarmes Automatico.pdb
+D:\Projects\C#\Alarmes Automatico\Alarmes Automatico\obj\Debug\Alarmes Automatico.csproj.AssemblyReference.cache
+D:\Projects\C#\Alarmes Automatico\Alarmes Automatico\obj\Debug\Alarmes_Automatico.Form1.resources
+D:\Projects\C#\Alarmes Automatico\Alarmes Automatico\obj\Debug\Alarmes_Automatico.Properties.Resources.resources
+D:\Projects\C#\Alarmes Automatico\Alarmes Automatico\obj\Debug\Alarmes Automatico.csproj.GenerateResource.cache
+D:\Projects\C#\Alarmes Automatico\Alarmes Automatico\obj\Debug\Alarmes Automatico.csproj.CoreCompileInputs.cache
+D:\Projects\C#\Alarmes Automatico\Alarmes Automatico\obj\Debug\Alarmes Automatico.exe
+D:\Projects\C#\Alarmes Automatico\Alarmes Automatico\obj\Debug\Alarmes Automatico.pdb
+D:\Projects\C#\Alarmes Automatico\Alarmes Automatico\obj\Debug\Alarmes_Automatico.modHorario.resources

@@ -64,7 +64,7 @@ namespace Alarmes_Automatico
 
             if (!alarmes.ContainsKey(hora))
             {
-                alarmes.Add(hora, duracao);
+                alarmes.Add(hora, duracao + 2);
                 FillAlarms(alarmes);
                 MessageBox.Show($"Alarme {hora} adicionado com duração de {duracao} segundos.", "Alarme Adicionado");
             }
